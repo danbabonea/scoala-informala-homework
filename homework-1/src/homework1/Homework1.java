@@ -3,8 +3,7 @@ package homework1;
 public class Homework1 {
     public static void main(String[] args) {
 
-        Homework1 x = new Homework1();
-        System.out.println("Sum of the first 100 numbers is: " + x.count());
+        System.out.println("Sum of the first 100 numbers is: " + count());
     }
 
     public static int count() {
